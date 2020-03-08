@@ -1,0 +1,44 @@
+<h3><em>Samszone</em> E-Commerce Company Online Inventory System:</h3>
+
+<form name="main" method="post"> 
+  <p>Please select an action in the following form, then provide
+    parameter(s) when appropriate.
+  </p>
+  <p>
+    If you choose to 'List Items', you may specify the range as <em>start,end</em> as a pair in the parameter box.
+    If you enter nothing into the Parameter box, the whole inventory will be printed.
+  </p>
+  <p> 
+    If you choose 'Search by keyword', enter a text pattern or keyword below in the Parameter box. The search is case sensitive.
+  </p>
+  <p>
+    If you select 'Value of the Inventory', leave the Parameter box blank to return the 
+    dollar value of the whole inventory.
+  </p>
+  <p> 
+    If you select 'Search by Category', enter the category you wish to see. The following are category options to look through:
+ <ul>
+    <li>Books</li>
+    <li>CD Vinyls</li>
+    <li>Collectibles</li>
+    <li>Electronics</li>
+    <li>Fashion</li>
+    <li>Home Garden</li>
+ </ul>
+ </p>
+
+
+<table>
+
+    <tr><th><label for="pulldown">Options:</label></th><td><select id="pulldown" name="pulldown">
+  <option value="list">List Items</option>
+  <option value="search">Search by Keyword</option>
+  <option value="value">Value of the Inventory</option>
+  <option value="category">Search by Category</option>
+</select>
+</td></tr>  
+
+    <tr><th><label for="line">Parameter(s)</label></th><td><input id="line" name="line" type="text"/></td></tr>
+    
+</table>
+<input type="submit" />    </form>
