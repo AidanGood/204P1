@@ -1,5 +1,5 @@
 # Online-Inventory
-Freshman project focused on creating an online inventory system.
+Freshman python project focused on creating an online inventory system.
 
 inventory.py
 Author: Aidan Good
