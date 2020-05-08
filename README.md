@@ -1,5 +1,6 @@
-# 204P1
-Project 1
+# Online-Inventory
+Freshman project focused on creating an online inventory system.
+
 inventory.py
 Author: Aidan Good
 
