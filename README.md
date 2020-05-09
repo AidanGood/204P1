@@ -13,4 +13,4 @@ Project focusing on creating an online inventory system.
   d) can return the total $ worth of the inventory
 3. Run the program on a webbrowser with a simple HTML GUI 
 
-Can test out the program by running 
+Can test out the program by running simple_web_server.py and typing in localhost:8080/ into any web browser address bar.
