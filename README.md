@@ -1,5 +1,5 @@
 # Online-Inventory
-Freshman python project focused on creating an online inventory system.
+Freshman python and html project focused on creating an online inventory system.
 
 inventory.py
 Author: Aidan Good
@@ -11,4 +11,6 @@ Project focusing on creating an online inventory system.
   b) print out all items of a specific category
   c) a seach function that returns all items containing the requested keyword or phrase
   d) can return the total $ worth of the inventory
-3. Run the program on a website with a user-friendly GUI 
+3. Run the program on a webbrowser with a simple HTML GUI 
+
+Can test out the program by running 
